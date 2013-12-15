@@ -151,8 +151,8 @@ $zindexModal:             1050 !default;
 
 // Sprite icons path
 // -------------------------
-$iconSpritePath:          url("/packages/bootstrap2-sass/assets/images/glyphicons-halflings.png");
-$iconWhiteSpritePath:     url("/packages/bootstrap2-sass/assets/images/glyphicons-halflings-white.png");
+$iconSpritePath:          url("/packages/bootstrap2-sass/assets/images/glyphicons-halflings.png") !default;
+$iconWhiteSpritePath:     url("/packages/bootstrap2-sass/assets/images/glyphicons-halflings-white.png") !default;
 
 
 // Input placeholder text color
