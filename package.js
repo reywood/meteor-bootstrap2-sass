@@ -14,10 +14,10 @@ Package.on_use(function (api) {
         "assets/javascripts/bootstrap-collapse.js",
         "assets/javascripts/bootstrap-dropdown.js",
         "assets/javascripts/bootstrap-modal.js",
-        "assets/javascripts/bootstrap-popover.js",
         "assets/javascripts/bootstrap-scrollspy.js",
         "assets/javascripts/bootstrap-tab.js",
         "assets/javascripts/bootstrap-tooltip.js",
+        "assets/javascripts/bootstrap-popover.js",
         "assets/javascripts/bootstrap-transition.js",
         "assets/javascripts/bootstrap-typeahead.js"
     ], "client");
