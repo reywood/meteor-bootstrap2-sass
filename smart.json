@@ -3,7 +3,7 @@
     "description": "Bootstrap2 with Sass support",
     "homepage": "https://github.com/reywood/meteor-bootstrap2-sass",
     "author": "Sean Dwyer",
-    "version": "2.3.2.2",
+    "version": "2.3.2.2b",
     "git": "https://github.com/reywood/meteor-bootstrap2-sass.git",
     "packages": {
     	"scss": ""
